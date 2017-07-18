@@ -1,0 +1,41 @@
+global-styling:
+  css:
+    theme:
+      css/style.css: {}
+      'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css': {type: external}
+
+fonts:
+  css:
+    theme:
+      '//fonts.googleapis.com/css?family=Pacifico': { type: external}
+
+googlemap:
+  js:
+    '//maps.googleapis.com/maps/api/js?key=AIzaSyDVIWPVfnR7fx-2JUcAEj03vAQkq6VFiIk&callback=myMap': {type: external}
+
+bootstrap-scripts:
+  js:
+    bootstrap/js/affix.js: {}
+    bootstrap/js/alert.js: {}
+    bootstrap/js/button.js: {}
+    bootstrap/js/carousel.js: {}
+    bootstrap/js/collapse.js: {}
+    bootstrap/js/dropdown.js: {}
+    bootstrap/js/modal.js: {}
+    bootstrap/js/tooltip.js: {}
+    bootstrap/js/popover.js: {}
+    bootstrap/js/scrollspy.js: {}
+    bootstrap/js/tab.js: {}
+    bootstrap/js/transition.js: {}
+
+carousel:
+  js:
+    js/newcarousel.js: {}
+
+logocollapse:
+  js:
+    js/logonocollapse.js: {}
+
+googlemap:
+  js:
+    js/contact.js: {}
